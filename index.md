@@ -29,7 +29,7 @@ Steemitはじめの一歩！[🔗](https://steemit.com/japanese/@yasu/7fuxcn-ste
 
 STEEMベースのトークンを売買する取引所。[🔗](https://steem-engine.net/)
 
-# Reward Summary 
+## Reward Summary 
 
 最近の一週間の報酬は、143ドル
 
@@ -41,7 +41,7 @@ STEEMベースのトークンを売買する取引所。[🔗](https://steem-eng
 
 (保有資産価値、14000ドル)
 
-# Archive
+## Archive
 
 散策フォトギャラリー[🔗](./photogarally.html) Python学習[🔗](./python.html) Steemitサインアップ[🔗](./steemitsignup.html)
 
